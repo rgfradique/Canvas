@@ -26,6 +26,8 @@ If any sample tags are used, it will then proceed to aggregate all data by sampl
 * Aggregated CSV, containing the same information as above, accumulated over all the files included. That is, the general description from all fields of view of a particular sample
 * Box plot of the Coverage % and frequency distribution for all samples
 
+A detailed flow diagram of the algorithm used is included [here](https://github.com/rgfradique/Canvas/blob/main/Screenshots/Flow%20diagram.png).
+
 # GUI Use
 To use, open the Canvas folder in your matlab UI, and navigate to the `Canvas.m` file.
 When done, click the Run button on the top right:
